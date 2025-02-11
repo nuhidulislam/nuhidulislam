@@ -15,5 +15,5 @@ Skills:  HTML / CSS/ JavaScript / REACT / MongoDB/ Express/Next.js
 - 🔭 I’m currently working on this page. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nuhidulislam)](https://github.com/anuraghazra/github-readme-stats)
+
 
