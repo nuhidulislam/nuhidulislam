@@ -10,7 +10,7 @@ With a keen eye for design and user experience, I’m skilled in translating com
 
 My expertise in front-end development, combined with my knowledge of modern JavaScript frameworks, makes me a versatile and adaptive developer, committed to delivering high-quality web applications.
 
-Skills:  HTML / CSS/ JavaScript / REACT / MongoDB/ Express/Next.js
+Skills: <i class="fa-brands fa-html5"></i>  HTML / CSS/ JavaScript / REACT / MongoDB/ Express/Next.js
 
 - 🔭 I’m currently working on this page. 
 
