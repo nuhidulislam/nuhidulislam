@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my GitHub profile! 🚀
 #### Front end web developer
-![Front end web developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/470736278_978785000729160_6394967612532006597_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xSO6QFFALbEQ7kNvgF0opEl&_nc_oc=AdihAQGLgkKYoBDMtdl239PGh08dZVEofpBTNjqfGBFn8OE-aCJpVJa2k4UTGFkP1i0&_nc_zt=23&_nc_ht=scontent.fdac27-1.fna&_nc_gid=A-icd3eToVFiHJrpyxfjXPM&oh=00_AYB9nG-yA5bpoq2AQYcXPhYxWZQhLCqIDM5UEXTl9clSZA&oe=67B13D04)
+[![Front end web developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/470736278_978785000729160_6394967612532006597_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xSO6QFFALbEQ7kNvgF0opEl&_nc_oc=AdihAQGLgkKYoBDMtdl239PGh08dZVEofpBTNjqfGBFn8OE-aCJpVJa2k4UTGFkP1i0&_nc_zt=23&_nc_ht=scontent.fdac27-1.fna&_nc_gid=A-icd3eToVFiHJrpyxfjXPM&oh=00_AYB9nG-yA5bpoq2AQYcXPhYxWZQhLCqIDM5UEXTl9clSZA&oe=67B13D04)](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/346445735_2222312914634432_6794853400138435137_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XTdS4_cBAMQQ7kNvgGckPdy&_nc_oc=Adjjkz21hMRd_oAV1Iv9EHDMm3Z4wGxn8Un2JElF2ifKZIVOMPVq_bn-F6Pw9IacL0M&_nc_zt=23&_nc_ht=scontent.fdac27-2.fna&_nc_gid=A0A7BbWhrk4QChPacTCasB-&oh=00_AYBZ9YTY-TkawV0BjdUBamOuNh_bNGBo3wyrfPk-Eczkhg&oe=67B15B48)
 
 I’m a self-taught Front-End Web Developer with a strong focus on building dynamic and responsive web applications. My journey began with mastering HTML, CSS, and JavaScript, which laid the foundation for my work in front-end development.
 
