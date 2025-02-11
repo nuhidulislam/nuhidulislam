@@ -15,9 +15,5 @@ Skills:  HTML / CSS/ JavaScript / REACT / MongoDB/ Express/Next.js
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nuhidulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100057930064329)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nuhidulislam)](https://github.com/anuraghazra/github-readme-stats)
 
