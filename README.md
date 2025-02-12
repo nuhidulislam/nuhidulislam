@@ -17,14 +17,8 @@ My expertise in front-end development, combined with my knowledge of modern Java
 [![Next.js Badge](https://img.shields.io/badge/next.js-00425A?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#) 
 [![Express.js Badge](https://img.shields.io/badge/Express.js-DDDDDD?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
-[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
-[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)
-[![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)](#)
-[![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&labelColor=FF9900&logo=amazon-aws&logoColor=white)](#)
-[![AWS S3 Bucket Badge](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&labelColor=232F3E&logo=amazon-s3&logoColor=white)](#)
+
 
 ### My Projects 🚀
 
