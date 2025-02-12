@@ -33,10 +33,8 @@ My expertise in front-end development, combined with my knowledge of modern Java
 ### ☕ Reach Me On
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuhidul-islam-08b8aa318/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057930064329) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pronazmul) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developernazmul@gmail.com)
-[![My Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](http://103.107.184.159)	
-[![Leetcode Badge](https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/pronazmul) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhidulislam@gmail.com)
+
 
 
 
